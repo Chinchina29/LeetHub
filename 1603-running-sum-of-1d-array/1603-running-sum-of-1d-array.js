@@ -3,7 +3,7 @@
  * @return {number[]}
  */
 var runningSum = function (nums) {
-    let num1=new Array()
+    let num1=[]
     let sum=0;
     for(let n of nums){
       sum+=n
