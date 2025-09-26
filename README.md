@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Chinchina29/LeetHub/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/Chinchina29/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Chinchina29/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Chinchina29/LeetHub/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
