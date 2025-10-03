@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0088-merge-sorted-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Chinchina29/LeetHub/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/Chinchina29/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Chinchina29/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chinchina29/LeetHub/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
