@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0088-merge-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Chinchina29/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Chinchina29/LeetHub/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/Chinchina29/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Chinchina29/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -46,8 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0088-merge-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Chinchina29/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chinchina29/LeetHub/tree/master/0088-merge-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Chinchina29/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+## Hash Table
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Chinchina29/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Chinchina29/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
